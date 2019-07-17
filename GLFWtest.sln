@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GLFWtest", "GLFWtest.vcxproj", "{A9A58D65-8DA1-485B-A99D-3299C4301898}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9A58D65-8DA1-485B-A99D-3299C4301898}.Debug|x64.ActiveCfg = Debug|x64
+		{A9A58D65-8DA1-485B-A99D-3299C4301898}.Debug|x64.Build.0 = Debug|x64
+		{A9A58D65-8DA1-485B-A99D-3299C4301898}.Debug|x86.ActiveCfg = Debug|Win32
+		{A9A58D65-8DA1-485B-A99D-3299C4301898}.Debug|x86.Build.0 = Debug|Win32
+		{A9A58D65-8DA1-485B-A99D-3299C4301898}.Release|x64.ActiveCfg = Release|x64
+		{A9A58D65-8DA1-485B-A99D-3299C4301898}.Release|x64.Build.0 = Release|x64
+		{A9A58D65-8DA1-485B-A99D-3299C4301898}.Release|x86.ActiveCfg = Release|Win32
+		{A9A58D65-8DA1-485B-A99D-3299C4301898}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60ACA2EA-5C06-4AE7-8658-986BED71D031}
+	EndGlobalSection
+EndGlobal
