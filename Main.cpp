@@ -11,8 +11,8 @@
  
 
 
-#define SCREEN_WIDTH 640
-#define SCREEN_HEIGHT 480
+const int SCREEN_WIDTH = 1080, SCREEN_HEIGHT = 720;
+
 
 float pos_x,pos_y ;
 
